@@ -13,6 +13,7 @@ Android Proficiency Exercise
 
 
 UI Specifications :
+
  --> The feed contains a title and a list of rows.
 
  --> The content is displayed (including image, title and description) in a ListView
@@ -29,6 +30,7 @@ extraneous white-space etc. This means some rows are larger than others.
  --> Non blocking UI while the data is being loaded.
 
 Testing :
+
  --> Manually verified on AVD as well as testing device
 
  --> Unit tested with AndroidJUnit4
